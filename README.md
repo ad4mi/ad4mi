@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel and my nickname is "adami"!
+# 👋 Olá ! Bem vindo ao meu perfil do Github.
+## meu nome é Gabriel mas pode me chamar de "adami"!
 
 - <div>
  <a href="https://github.com/ad4mi">
